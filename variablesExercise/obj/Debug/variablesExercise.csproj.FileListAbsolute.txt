@@ -1,0 +1,7 @@
+C:\Users\shake\source\repos\variablesExercise\variablesExercise\bin\Debug\variablesExercise.exe.config
+C:\Users\shake\source\repos\variablesExercise\variablesExercise\bin\Debug\variablesExercise.exe
+C:\Users\shake\source\repos\variablesExercise\variablesExercise\bin\Debug\variablesExercise.pdb
+C:\Users\shake\source\repos\variablesExercise\variablesExercise\obj\Debug\variablesExercise.csproj.AssemblyReference.cache
+C:\Users\shake\source\repos\variablesExercise\variablesExercise\obj\Debug\variablesExercise.csproj.CoreCompileInputs.cache
+C:\Users\shake\source\repos\variablesExercise\variablesExercise\obj\Debug\variablesExercise.exe
+C:\Users\shake\source\repos\variablesExercise\variablesExercise\obj\Debug\variablesExercise.pdb
